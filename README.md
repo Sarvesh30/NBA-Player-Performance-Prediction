@@ -7,3 +7,4 @@ Improvements/Enhancements in progress:
 - Updating player biodata after NBA 2024 Free Agency
 - Feature engineering (injuries, home/away, clutch stats, schedule strength)
 - Visualizations for the predicted stats for all 30 NBA teams
+- Final Report focusing on the Milwaukee Bucks and other NBA teams
